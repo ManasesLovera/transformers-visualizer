@@ -1,5 +1,5 @@
 {
   "name": "Transformer Insight - Interactive LLM Visualizer",
-  "description": "An educational tool to visualize and understand the inner workings of Transformer architectures, from embeddings to self-attention and feed-forward layers, powered by Gemini for deep explanations.",
+  "description": "An educational tool to visualize and understand the inner workings of Transformer architectures, from embeddings to self-attention and feed-forward layers.",
   "requestFramePermissions": []
 }
